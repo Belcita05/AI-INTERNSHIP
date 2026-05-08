@@ -1,4 +1,4 @@
-#Aritificial Intelligence & Machine Learning Internship Projects
+# Aritificial Intelligence & Machine Learning Internship Projects
 
 This repository contains the projects completed during my AIML Internship. These projects focus on machine learning, deep learning, computer vision, and model deployment using Python and Streamlit.
 
@@ -74,6 +74,4 @@ This repository contains the projects completed during my AIML Internship. These
 ## Author
 
 Belcita Biju
-ization, sentiment analysis.
-Srishti Internship Projects
-Internship projects completed at Srishti Innovative, Technopark.
+
