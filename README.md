@@ -7,12 +7,12 @@ This repository contains the projects completed during my AIML Internship. These
 * Python
 * Pandas
 * NumPy
-*Matplotlib
+* Matplotlib
 * Scikit-learn
 * TensorFlow 
 * OpenCV
 * YOLO
-*NLP
+* NLP
 * Streamlit
 
 ## Projects
@@ -48,8 +48,8 @@ This repository contains the projects completed during my AIML Internship. These
 * Detected objects from uploaded images.
 
 ### NLP Project
-*Developed a Natural Language Processing (NLP) project for text analysis and processing.
-*Used Python libraries for text preprocessing and prediction tasks.
+* Developed a Natural Language Processing (NLP) project for text analysis and processing.
+* Used Python libraries for text preprocessing and prediction tasks.
 
 
 ## Features
